@@ -1,0 +1,21 @@
+{
+    "name": "wizardry",
+    "displayName": "wizardry",
+    "description": "A color scheme based on apprentice.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "wizardry",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wizardry-color-theme.json"
+            }
+        ]
+    }
+}
